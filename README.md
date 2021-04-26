@@ -1,5 +1,5 @@
 # shopping-cart
-SImples implementação de um carrinho de compras usando redis e python
+SImples implementação de um carrinho de compras usando FastApi como framework web e Redis como banco de dados.
 
 
 ## Configuration
