@@ -1,7 +1,7 @@
 import json
 
 from .models import Cart, Client, Product
-from .redis import instance_redis
+from .con_redis import instance_redis
 from typing import List
 
 
